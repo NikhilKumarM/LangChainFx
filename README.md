@@ -529,4 +529,4 @@ If you find this helpful, please give it a ⭐ to support the learning community
 
 **Happy Learning! 🚀**
 
-*Last Updated: 2024 | Made with ❤️ for LangChain learners*
+*Last Updated: 2026 | Made with ❤️ for LangChain learners*
